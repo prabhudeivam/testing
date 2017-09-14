@@ -1,0 +1,19 @@
+body {
+  background-color: #ccc;
+}
+h1 {
+  color: #000;
+  text-align: center;
+}
+.box,
+.footer {
+  width: 50%;
+  margin: 20px auto;
+  border: 1px solid #333;
+  padding: 25px;
+  background-color: #fff;
+}
+
+.footer {
+  background-color: #f3f3f3;
+}
